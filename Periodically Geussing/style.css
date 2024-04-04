@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+h1,
+h2 {
+  font-family: "Tac One", sans-serif;
+  font-size: 40px;
+}
+
+.select {
+  font-family: "Tac One", sans-serif;
+  font-size: large;
+}
+
+p {
+  font-family: "Tac One", sans-serif;
+  font-size: large;
+}
